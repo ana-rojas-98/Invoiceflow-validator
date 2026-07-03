@@ -34,7 +34,6 @@ invoiceflow-validator/
     conftest.py
     test_validate.py
   requirements.txt
-  Dockerfile
   README.md
 ```
 
